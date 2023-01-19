@@ -1,0 +1,41 @@
+body{
+    background-image: url("img/space.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.g{
+    height: 150px;
+    width: 150px;
+    margin: 280px auto;
+}
+.g1{
+    height: 150px;
+    width: 150px;
+    /* border: solid 1px red; */
+    position: relative;
+}
+.a1{
+    height: 70px;
+    width: 70px;
+}
+.c1{
+    height: 30px;
+    width: 30px;
+}
+.a{
+    position: absolute;
+    width: 470px;
+    /* border: solid 1px red; */
+    left: 447px;
+    top: 313px;
+
+}
+.c{
+    width: 177px;
+    position: absolute;
+    /* border: solid 1px red; */
+    left: -64px;
+    top: 6px;
+}

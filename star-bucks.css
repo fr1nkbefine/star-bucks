@@ -484,6 +484,9 @@ header{
     background-color: white;
     transition: 0.3s;
 }
+.clas_logo{
+    width: 390px;   
+ }
 .red_logo{
     object-fit: contain;
 }
